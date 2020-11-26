@@ -52,7 +52,10 @@ In case of variables : It works differently, when it comes to the variables. It 
 In case of functions : When the function is defined, it is defined inside the memory space completely, along with what is defined inside
                        the function (Example in hoisiting.js file).
 
+SINGLE THREADED : One Command at a time (Under the hood of the browser, may be not)
+AND SYNCHRONOUS EXECUTION : One at a time and in order
 
+FUNCTION INVOCATION: Running a function. In javaScript by using paranthesis ().
 
 
 
